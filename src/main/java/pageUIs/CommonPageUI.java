@@ -1,10 +1,10 @@
-package pageUIs.alpaca;
+package pageUIs;
 
 public class CommonPageUI {
     /*    public static final String TAO_BUTTON="//button[contains(.,'Tạo')]";
         public static final String HUY_BUTTON="//button[contains(.,'Hủy')]";
         public static final String TAO_MOI_BUTTON="//button[text()='Tạo mới']";*/
-   // public static final String KHACH_HANG_FORM_TAO_IFRAME = "//iframe[contains(src,'phase2-test-crm.alpaca.vn/customers/iframes/create')]";
+   // public static final String KHACH_HANG_FORM_TAO_IFRAME = "//iframe[contains(src,'phase2-test-crm.com.vn/customers/iframes/create')]";
     public static final String KHACH_HANG_FORM_TAO_IFRAME = "//iframe";
     public static final String PAGE_TITLE = "//h3[@class='content-header-title mb-0']";
     public static final String COMMON_BUTTON = "//button[contains(.,'%s')]";

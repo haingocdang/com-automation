@@ -1,11 +1,9 @@
 package pageObjects.jupiter;
 
-import commons.AbstractPage;
 import commons.CommonPageObjects;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
-import pageUIs.alpaca.CommonPageUI;
-import pageUIs.alpaca.jupiter.TaoBanChaoPageUI;
+import pageUIs.jupiter.TaoBanChaoPageUI;
 
 
 public class TaoBanChaoPageObject extends CommonPageObjects {

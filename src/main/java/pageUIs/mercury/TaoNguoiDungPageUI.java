@@ -1,4 +1,4 @@
-package pageUIs.alpaca.mercury;
+package pageUIs.mercury;
 
 public class TaoNguoiDungPageUI {
     public static final String TEN_DANG_NHAP_TEXTBOX="//input[@id='inputLoginName']";

@@ -10,7 +10,7 @@ import org.apache.poi.ss.usermodel.Sheet;
 import org.openqa.selenium.WebDriver;
 import pageObjects.jupiter.DanhSachBanChaoPageObject;
 import pageObjects.jupiter.TaoBanChaoPageObject;
-import pageUIs.alpaca.CommonPageUI;
+import pageUIs.CommonPageUI;
 import utils.excelutils.ExcelReader;
 import utils.excelutils.ExcelUtil;
 

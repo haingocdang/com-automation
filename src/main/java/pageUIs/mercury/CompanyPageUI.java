@@ -1,4 +1,4 @@
-package pageUIs.alpaca.mercury;
+package pageUIs.mercury;
 
 public class CompanyPageUI {
     public static final String ADD_BUTTON="//button[contains(.,'Tạo mới')]";

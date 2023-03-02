@@ -3,32 +3,22 @@ package stepDefinations.jupiter.banChaoDon;
 import commons.CommonPageObjects;
 import commons.GlobalConstants;
 import cucumber.api.DataTable;
-import cucumber.api.PendingException;
 import cucumber.api.java.en.And;
 import org.apache.poi.openxml4j.exceptions.InvalidFormatException;
 import org.junit.Assert;
 import org.assertj.core.api.SoftAssertions;
 
-import static org.assertj.core.api.Assertions.*;
-import static stepDefinations.common.stepDefinations.CommonPageSteps.commonPage;
-
 import org.openqa.selenium.WebDriver;
 
 import commons.PageGeneratorManager;
 import pageObjects.jupiter.DanhSachBanChaoPageObject;
-import pageObjects.mercury.LoginPageObject;
 import commons.VerifyHelper;
-import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
-import cucumber.api.java.en.When;
 import cucumberOption.Hooks;
-import pageUIs.alpaca.CommonPageUI;
 import utils.excelutils.ExcelReader;
 
 import java.io.IOException;
-import java.sql.SQLOutput;
 import java.util.ArrayList;
-import java.util.Collections;
 import java.util.List;
 import java.util.Map;
 

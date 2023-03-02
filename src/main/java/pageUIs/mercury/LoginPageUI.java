@@ -1,4 +1,4 @@
-package pageUIs.alpaca.mercury;
+package pageUIs.mercury;
 
 public class LoginPageUI {
 	public static final String DANG_NHAP_BUTTON="//button[contains(.,'Đăng')]";

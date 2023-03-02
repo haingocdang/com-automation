@@ -5,7 +5,7 @@ import commons.VerifyHelper;
 import cucumber.api.java.en.And;
 import cucumberOption.Hooks;
 import org.openqa.selenium.WebDriver;
-import pageUIs.alpaca.CommonPageUI;
+import pageUIs.CommonPageUI;
 import utils.excelutils.SpreadSheetIntegration;
 
 import java.util.ArrayList;

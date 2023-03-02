@@ -5,9 +5,6 @@ package commons;
 import java.text.DateFormat;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
-import java.time.Duration;
-import java.time.Period;
-import java.time.temporal.Temporal;
 import java.util.*;
 //import java.util.Collection;
 import java.util.concurrent.TimeUnit;
@@ -28,7 +25,6 @@ import org.openqa.selenium.support.ui.ExpectedCondition;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
-import pageUIs.alpaca.CommonPageUI;
 
 
 public abstract class AbstractPage {

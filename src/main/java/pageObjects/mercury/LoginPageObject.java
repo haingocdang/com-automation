@@ -3,7 +3,7 @@ package pageObjects.mercury;
 import org.openqa.selenium.WebDriver;
 
 import commons.AbstractPage;
-import pageUIs.alpaca.mercury.LoginPageUI;
+import pageUIs.mercury.LoginPageUI;
 
 public class LoginPageObject extends AbstractPage {
 	WebDriver driver;

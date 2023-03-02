@@ -1,4 +1,4 @@
-package pageUIs.alpaca.mercury;
+package pageUIs.mercury;
 
 public class AddCompanyPageUI {
     public static final String CANCEL_BUTTON="//button[contains(.,'Hủy')]";

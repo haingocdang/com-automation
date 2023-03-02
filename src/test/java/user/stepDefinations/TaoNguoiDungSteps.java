@@ -1,14 +1,9 @@
 package user.stepDefinations;
 
-import commons.GlobalConstants;
-import cucumber.api.PendingException;
-import cucumber.api.java.en.And;
-import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 
 import commons.PageGeneratorManager;
 import pageObjects.mercury.TaoNguoiDungPageObject;
-import pageUIs.alpaca.CommonPageUI;
 import commons.VerifyHelper;
 import cucumber.api.java.en.When;
 import cucumberOption.Hooks;

@@ -78,7 +78,7 @@ public class SpreadSheetIntegration {
         //  System.out.println("clientScrets"+clientSecrets);
 
 
-        return new AuthorizationCodeInstalledApp(flow, receiver).authorize("hai.dang@alpaca.vn");
+        return new AuthorizationCodeInstalledApp(flow, receiver).authorize("hai.dang@com.vn");
     }
 
     public void createANewSheet() throws IOException {
